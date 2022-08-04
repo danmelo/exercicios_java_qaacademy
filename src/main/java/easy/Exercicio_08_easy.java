@@ -1,4 +1,4 @@
-//8-) Faça um algoritmo para ler um valor de salário, calcular e exibir o valor do salário bruto,
+package easy;//8-) Faça um algoritmo para ler um valor de salário, calcular e exibir o valor do salário bruto,
 // valor do salário líquido e o valor do imposto de renda.
 
 import javax.swing.*;

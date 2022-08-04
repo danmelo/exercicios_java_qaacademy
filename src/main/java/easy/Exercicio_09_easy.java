@@ -1,3 +1,5 @@
+package easy;
+
 import javax.swing.*;
 
 //9-)Faça um algoritmo para ler um número inteiro entre: 1 e 10,
